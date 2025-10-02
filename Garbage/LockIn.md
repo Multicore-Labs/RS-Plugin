@@ -4,3 +4,5 @@ ballsland 240000 is my homie fr
 
 
 # Goated?
+
+Boated. But also floated.
