@@ -1,8 +1,7 @@
-# this is the model files lo
+# FUCK YOUUU
 
-ballsland 240000 is my homie fr
+GRAHHH I REALLY HATE YOUUU.
 
+# PIECE OF SHIT.
 
-# Goated?
-
-Boated. But also floated.
+WHY WONT YOU WORK AS INTENEDED THE FIRST TIIMMEEEEE :((((
