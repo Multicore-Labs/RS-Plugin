@@ -1,4 +1,4 @@
-local toolbar = plugin:CreateToolbar("RS") --test
+local toolbar = plugin:CreateToolbar("RS") -- HI
 local menuButton = toolbar:CreateButton("Open Menu", "Open RS Plugin Menu", "rbxassetid://85336764608981")
 
 local widgetInfo = DockWidgetPluginGuiInfo.new(
@@ -251,4 +251,5 @@ menuButton.Click:Connect(function()
 	end
 	
 end)
+
 
